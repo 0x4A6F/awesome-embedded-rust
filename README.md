@@ -1278,6 +1278,7 @@ Work in progress crates. Help the authors make these crates awesome!
 - [Booster](https://github.com/quartiq/booster): Firmware for an RF power amplifier, including telemetry via MQTT and run-time configuration
 - [Thermostat EEM](https://github.com/quartiq/thermostat-eem): Firmware for a multi-channel temperature controller used in physics experiments
 - [Card/IO ECG](https://github.com/card-io-ecg/card-io-fw): Firmware for a business-card sized ECG device with Wifi connectivity
+- [oreboot](https://github.com/oreboot/oreboot): oreboot is a fork of coreboot, with C removed, written in Rust
 
 
 ## Old books, blogs and training materials
